@@ -1,0 +1,3703 @@
+[
+  {
+    "id": "3CE0837C-9BCE-4043-91E9-564048F9C918",
+    "name": "강릉",
+    "region": "강원",
+    "tags": [
+      "sea",
+      "food"
+    ],
+    "description": "오늘은 바다가 널 부른다",
+    "highlights": [
+      "안목 커피거리",
+      "초당순두부",
+      "경포 해변 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7CC46969-4BA7-4100-BBBA-98AA2D1BC41B",
+    "name": "전주",
+    "region": "전북",
+    "tags": [
+      "food",
+      "history"
+    ],
+    "description": "배도 마음도 든든해질 시간",
+    "highlights": [
+      "한옥마을 골목",
+      "비빔밥과 콩나물국밥",
+      "전동성당 주변 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "ED61EFEC-EC1A-4800-B228-932E080E8B70",
+    "name": "춘천",
+    "region": "강원",
+    "tags": [
+      "nature",
+      "food"
+    ],
+    "description": "호수 따라 하루를 가볍게 떠나보자",
+    "highlights": [
+      "소양강",
+      "닭갈비 골목",
+      "의암호 산책"
+    ],
+    "recommendedTransports": [
+      "기차"
+    ]
+  },
+  {
+    "id": "F8D2DB9D-877F-4390-A8B5-4567D4053B03",
+    "name": "부산",
+    "region": "부산",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "도시와 바다가 함께 빛나는 밤",
+    "highlights": [
+      "광안리",
+      "해운대",
+      "흰여울문화마을"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "EC172C7A-1BDE-4A13-8680-7EE5726F3D38",
+    "name": "여수",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "night"
+    ],
+    "description": "밤바다가 모든 분위기를 완성한다",
+    "highlights": [
+      "여수밤바다",
+      "오동도",
+      "낭만포차"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8AE95377-3CFC-4C13-947C-DC5731370CAE",
+    "name": "경주",
+    "region": "경북",
+    "tags": [
+      "history",
+      "culture"
+    ],
+    "description": "천년의 시간을 걷는 하루",
+    "highlights": [
+      "황리단길",
+      "첨성대",
+      "동궁과 월지"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A191F90D-3C10-4604-8066-DFE2E18C8CD7",
+    "name": "속초",
+    "region": "강원",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "설악산과 바다가 동시에 기다린다",
+    "highlights": [
+      "속초해수욕장",
+      "중앙시장",
+      "설악산"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "6DBBA11F-96D4-462B-90A1-A4715C33D2F5",
+    "name": "제주",
+    "region": "제주",
+    "tags": [
+      "nature",
+      "sea"
+    ],
+    "description": "멀리 떠날수록 더 자유로워진다",
+    "highlights": [
+      "협재해변",
+      "오름 산책",
+      "동문시장"
+    ],
+    "recommendedTransports": [
+      "비행기"
+    ]
+  },
+  {
+    "id": "4C90A59E-C790-49BA-AB59-D7BE7E17496C",
+    "name": "통영",
+    "region": "경남",
+    "tags": [
+      "sea",
+      "healing"
+    ],
+    "description": "바다 위를 천천히 떠다니는 기분",
+    "highlights": [
+      "동피랑",
+      "통영케이블카",
+      "중앙시장"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "D63ABC83-E3AA-4FCF-A15C-15478ECE6D47",
+    "name": "대전",
+    "region": "대전",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "빵과 과학이 공존하는 도시",
+    "highlights": [
+      "성심당",
+      "엑스포공원",
+      "한밭수목원"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "EAF185C0-0638-47CE-AA58-218E551E9545",
+    "name": "포항",
+    "region": "경북",
+    "tags": [
+      "sea",
+      "night"
+    ],
+    "description": "바다와 철의 도시를 느껴보자",
+    "highlights": [
+      "스페이스워크",
+      "영일대",
+      "죽도시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8CB7E044-505F-4169-A8F5-B784792C4828",
+    "name": "안동",
+    "region": "경북",
+    "tags": [
+      "history",
+      "food"
+    ],
+    "description": "전통의 분위기에 천천히 스며드는 하루",
+    "highlights": [
+      "하회마을",
+      "찜닭골목",
+      "월영교"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "5BAA6338-B36F-4B9D-B2C3-4C8A78503E99",
+    "name": "군산",
+    "region": "전북",
+    "tags": [
+      "history",
+      "retro"
+    ],
+    "description": "시간이 느리게 흐르는 레트로 여행",
+    "highlights": [
+      "경암동 철길",
+      "이성당",
+      "근대역사거리"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "2A1374C8-3A0B-4B86-AC3B-8F7A22752C0D",
+    "name": "목포",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "food"
+    ],
+    "description": "남도의 맛과 바다를 동시에",
+    "highlights": [
+      "유달산",
+      "해상케이블카",
+      "목포항"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "E8F3466F-AE29-4E84-A8C1-9C1D8666C3D3",
+    "name": "양양",
+    "region": "강원",
+    "tags": [
+      "sea",
+      "surfing"
+    ],
+    "description": "서핑과 자유를 즐길 시간",
+    "highlights": [
+      "서피비치",
+      "낙산사",
+      "죽도해변"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "EE7C6A8A-71FF-4DCA-8BFA-13D5EB90CF51",
+    "name": "수원",
+    "region": "경기",
+    "tags": [
+      "history",
+      "city"
+    ],
+    "description": "성곽 따라 걷는 감성 도시",
+    "highlights": [
+      "수원화성",
+      "화성행궁",
+      "행리단길"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A920F386-3D58-4E25-8BE4-0419BC6F12B3",
+    "name": "인천",
+    "region": "인천",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "항구 도시의 색다른 분위기",
+    "highlights": [
+      "송도센트럴파크",
+      "차이나타운",
+      "월미도"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "505FC79B-1824-4184-A583-3170DA36569D",
+    "name": "대구",
+    "region": "대구",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "뜨거운 열기와 야식의 도시",
+    "highlights": [
+      "동성로",
+      "막창 골목",
+      "앞산 전망대"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A32EC230-7BAD-423F-9928-C0D16B0E3E28",
+    "name": "광주",
+    "region": "광주",
+    "tags": [
+      "food",
+      "culture"
+    ],
+    "description": "예술과 맛이 살아있는 도시",
+    "highlights": [
+      "국립아시아문화전당",
+      "양림동",
+      "송정시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "9D8174C2-EA64-4552-8F59-A1024386A628",
+    "name": "울산",
+    "region": "울산",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다와 강이 이어지는 하루",
+    "highlights": [
+      "간절곶",
+      "대왕암공원",
+      "태화강"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "05259914-DBAC-4EC9-8389-99E4F4784EA8",
+    "name": "청주",
+    "region": "충북",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "조용하지만 매력적인 충청 여행",
+    "highlights": [
+      "청남대",
+      "성안길",
+      "수암골"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "DBB59147-DD4C-4A23-B737-01021DD1238B",
+    "name": "천안",
+    "region": "충남",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "호두과자만으로 끝나지 않는 도시",
+    "highlights": [
+      "독립기념관",
+      "병천순대거리",
+      "불당동"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "1634B27D-5F27-4868-849A-E464EA9E3E4C",
+    "name": "공주",
+    "region": "충남",
+    "tags": [
+      "history",
+      "nature"
+    ],
+    "description": "백제의 시간을 따라 걷다",
+    "highlights": [
+      "공산성",
+      "무령왕릉",
+      "제민천"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "8CB75AD4-7363-43BC-B907-4E6A2C3A698B",
+    "name": "보령",
+    "region": "충남",
+    "tags": [
+      "sea",
+      "healing"
+    ],
+    "description": "서해 바다 냄새 가득한 하루",
+    "highlights": [
+      "대천해수욕장",
+      "머드광장",
+      "무창포"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "88A5CF34-3522-4C19-AFDB-4BFFAEACE765",
+    "name": "남해",
+    "region": "경남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "천천히 쉬어가기 좋은 남해 여행",
+    "highlights": [
+      "독일마을",
+      "다랭이마을",
+      "상주은모래비치"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "526DF319-5A46-4752-8A7C-F8B2F2079D47",
+    "name": "거제",
+    "region": "경남",
+    "tags": [
+      "sea",
+      "healing"
+    ],
+    "description": "남해 바다의 여유를 만끽하자",
+    "highlights": [
+      "바람의언덕",
+      "외도",
+      "학동몽돌해변"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "F310F7E5-9500-489A-BDBD-69914B826DCF",
+    "name": "파주",
+    "region": "경기",
+    "tags": [
+      "culture",
+      "healing"
+    ],
+    "description": "감성과 책 향기가 흐르는 도시",
+    "highlights": [
+      "헤이리마을",
+      "출판단지",
+      "임진각"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "3FFAC351-410A-48A7-AF62-1CAD7EF9D846",
+    "name": "가평",
+    "region": "경기",
+    "tags": [
+      "nature",
+      "healing"
+    ],
+    "description": "서울 근교 자연 속으로",
+    "highlights": [
+      "남이섬",
+      "자라섬",
+      "아침고요수목원"
+    ],
+    "recommendedTransports": [
+      "기차",
+      "버스"
+    ]
+  },
+  {
+    "id": "DE70D3C6-7C16-4609-9141-10606591C780",
+    "name": "양평",
+    "region": "경기",
+    "tags": [
+      "nature",
+      "healing"
+    ],
+    "description": "복잡함에서 잠시 벗어나는 시간",
+    "highlights": [
+      "두물머리",
+      "세미원",
+      "용문사"
+    ],
+    "recommendedTransports": [
+      "기차",
+      "버스"
+    ]
+  },
+  {
+    "id": "A1353081-E539-43CD-AB7D-A4878253545D",
+    "name": "태안",
+    "region": "충남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "서해의 노을을 만나러 가자",
+    "highlights": [
+      "꽃지해변",
+      "안면도",
+      "태안해안국립공원"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "8EF8D98B-B9A0-4F8D-B6A1-40C1EB8EFDF7",
+    "name": "삼척",
+    "region": "강원",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "동해의 조용한 감성을 느껴보자",
+    "highlights": [
+      "장호항",
+      "해상케이블카",
+      "초곡용굴촛대바위"
+    ],
+    "recommendedTransports": [
+      "기차",
+      "버스"
+    ]
+  },
+  {
+    "id": "AA6F3890-DDD8-48D9-B4AB-6B741E13D338",
+    "name": "동해",
+    "region": "강원",
+    "tags": [
+      "sea",
+      "healing"
+    ],
+    "description": "탁 트인 동해 바다로 떠나자",
+    "highlights": [
+      "묵호항",
+      "논골담길",
+      "망상해수욕장"
+    ],
+    "recommendedTransports": [
+      "기차",
+      "버스"
+    ]
+  },
+  {
+    "id": "CA26F073-BCC2-43B1-9697-57DA20E11F8A",
+    "name": "고양",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "고양 중심가 산책",
+      "고양 맛집 거리",
+      "고양 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "83D9CE23-165A-4725-9EF1-35DC15865F45",
+    "name": "용인",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "용인 중심가 산책",
+      "용인 맛집 거리",
+      "용인 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "0B4DCD81-3677-4F9B-9153-EC70976E356B",
+    "name": "성남",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "성남 중심가 산책",
+      "성남 맛집 거리",
+      "성남 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "2EA341EB-A72B-4DBC-8392-97CBA87093BB",
+    "name": "부천",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "부천 중심가 산책",
+      "부천 맛집 거리",
+      "부천 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "4AC271F0-573A-4A79-BC14-1F421787226E",
+    "name": "화성",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "화성 중심가 산책",
+      "화성 맛집 거리",
+      "화성 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "27C521A3-55EF-4AB4-8296-D60F35B85C38",
+    "name": "남양주",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "남양주 중심가 산책",
+      "남양주 맛집 거리",
+      "남양주 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "42412D7E-86F0-46AE-80A8-966C80D1D2F5",
+    "name": "안산",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "안산 중심가 산책",
+      "안산 맛집 거리",
+      "안산 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "76C314BC-9731-4F4D-B48B-AF0B73E7E64C",
+    "name": "평택",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "평택 중심가 산책",
+      "평택 맛집 거리",
+      "평택 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "856EBCA2-7986-4FA4-BF2E-0FCDFF05B26E",
+    "name": "안양",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "안양 중심가 산책",
+      "안양 맛집 거리",
+      "안양 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "721FD670-588E-4363-9CFB-3C20AAB32078",
+    "name": "시흥",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "시흥 중심가 산책",
+      "시흥 맛집 거리",
+      "시흥 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "89FDAD37-C6F8-4101-AD2F-965360D7FE61",
+    "name": "김포",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "김포 중심가 산책",
+      "김포 맛집 거리",
+      "김포 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "420D0386-724C-4A16-AECD-FE54B3EF2E60",
+    "name": "의정부",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "의정부 중심가 산책",
+      "의정부 맛집 거리",
+      "의정부 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "281ED20D-03A0-46E1-A93E-C5A9AABEB8EA",
+    "name": "광주",
+    "region": "경기",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "국립아시아문화전당",
+      "양림동",
+      "송정시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7DF22DBA-0CA0-401A-AD3B-E14A169E7581",
+    "name": "하남",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "하남 중심가 산책",
+      "하남 맛집 거리",
+      "하남 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C05001BB-6107-4F94-B70F-274B853444D5",
+    "name": "광명",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "광명 중심가 산책",
+      "광명 맛집 거리",
+      "광명 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "E95009C3-C1AC-40A2-B264-E0217FDA18A2",
+    "name": "군포",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "군포 중심가 산책",
+      "군포 맛집 거리",
+      "군포 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A13852CE-1E6D-4F02-92BC-B6E7E61F7330",
+    "name": "오산",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "오산 중심가 산책",
+      "오산 맛집 거리",
+      "오산 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "94C114B4-9821-4146-93B0-EB908FC089C6",
+    "name": "이천",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "이천 중심가 산책",
+      "이천 맛집 거리",
+      "이천 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "4C8523F6-1684-4620-B4BA-73EF5143BB84",
+    "name": "안성",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "안성 중심가 산책",
+      "안성 맛집 거리",
+      "안성 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "9D8D9EED-9923-442E-BE97-2ED75C0D676C",
+    "name": "의왕",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "의왕 중심가 산책",
+      "의왕 맛집 거리",
+      "의왕 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7F3BE62F-78B1-4770-988E-9AB68AAEB95F",
+    "name": "구리",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "구리 중심가 산책",
+      "구리 맛집 거리",
+      "구리 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F137B3B9-8BC1-4338-BC1A-426EBA03B26D",
+    "name": "포천",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "포천 중심가 산책",
+      "포천 맛집 거리",
+      "포천 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "35B41A04-7949-4733-9CB2-876FCE4E6DAC",
+    "name": "여주",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "여주 중심가 산책",
+      "여주 맛집 거리",
+      "여주 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "E3CFE9C3-9354-4691-A254-70A82D1E8986",
+    "name": "동두천",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "동두천 중심가 산책",
+      "동두천 맛집 거리",
+      "동두천 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A91B0CD0-84E6-4220-977F-52EC5F9859CC",
+    "name": "과천",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "과천 중심가 산책",
+      "과천 맛집 거리",
+      "과천 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "42B684CD-FA01-458E-9537-C38404CE7D98",
+    "name": "연천",
+    "region": "경기",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "연천 중심가 산책",
+      "연천 맛집 거리",
+      "연천 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8278FAC6-A8CB-4770-AD85-AF4421BA0930",
+    "name": "원주",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "소금산 출렁다리",
+      "뮤지엄 산",
+      "중앙시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "FE423979-C862-475F-94F6-0363F61DED62",
+    "name": "태백",
+    "region": "강원",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "태백 로컬시장",
+      "태백 산책 코스",
+      "태백 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7DB90A63-ABD2-424D-A9B0-4C199E591A1E",
+    "name": "홍천",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "홍천 숲길 산책",
+      "홍천 계곡·호수 코스",
+      "홍천 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A7949FAD-D4B8-4EDB-8E51-86AA9E1BB61E",
+    "name": "횡성",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "횡성 숲길 산책",
+      "횡성 계곡·호수 코스",
+      "횡성 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A938FAFE-AC38-4F85-8F8B-A20D786686E8",
+    "name": "영월",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "영월 숲길 산책",
+      "영월 계곡·호수 코스",
+      "영월 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "57E452BA-F9B2-447E-85B5-7C4EA57B59CA",
+    "name": "평창",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "대관령",
+      "월정사",
+      "봉평 메밀거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A66BFD92-F009-41F8-BFDD-4C8FA6DA1678",
+    "name": "정선",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "아리랑시장",
+      "화암동굴",
+      "레일바이크"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "6C27FC47-2483-4A10-8F88-E55E87F09FD5",
+    "name": "철원",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "철원 숲길 산책",
+      "철원 계곡·호수 코스",
+      "철원 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "2EE3211B-ECFD-45BB-815F-67755AA73A29",
+    "name": "화천",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "화천 숲길 산책",
+      "화천 계곡·호수 코스",
+      "화천 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "5786C238-9468-4B65-AF54-0A0A72644DD3",
+    "name": "양구",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "양구 숲길 산책",
+      "양구 계곡·호수 코스",
+      "양구 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "6D1C4444-633A-4B7B-B231-57D1CF3D29E4",
+    "name": "인제",
+    "region": "강원",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "인제 숲길 산책",
+      "인제 계곡·호수 코스",
+      "인제 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "EE51DCC1-ABDF-4D7A-83EF-0E60E5FAAE9B",
+    "name": "고성",
+    "region": "강원",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "고성 바다 산책",
+      "고성 로컬시장",
+      "고성 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "244DF072-6711-421E-82B1-37856A133787",
+    "name": "충주",
+    "region": "충북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "충주 숲길 산책",
+      "충주 계곡·호수 코스",
+      "충주 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "53860989-AEAE-4F38-9F45-161FA9ADA7DE",
+    "name": "제천",
+    "region": "충북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "제천 숲길 산책",
+      "제천 계곡·호수 코스",
+      "제천 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "D4DD7FE7-5A3F-4A0F-9C04-2268F49E0FB9",
+    "name": "보은",
+    "region": "충북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "보은 숲길 산책",
+      "보은 계곡·호수 코스",
+      "보은 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "FCC342BB-1F0E-4D9F-8D99-B3486DCF924C",
+    "name": "옥천",
+    "region": "충북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "옥천 숲길 산책",
+      "옥천 계곡·호수 코스",
+      "옥천 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "DFA5E5E3-C0F3-4AA3-810B-CD57F2153EFA",
+    "name": "영동",
+    "region": "충북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "영동 숲길 산책",
+      "영동 계곡·호수 코스",
+      "영동 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "3B7B0E19-905E-41B2-BCDF-46523A59EC09",
+    "name": "진천",
+    "region": "충북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "진천 로컬시장",
+      "진천 산책 코스",
+      "진천 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "08A6E2E8-4A7B-4EC0-9C53-5B5BEDBC48CA",
+    "name": "괴산",
+    "region": "충북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "괴산 숲길 산책",
+      "괴산 계곡·호수 코스",
+      "괴산 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "03DBC43A-C6CC-4EC0-B20B-C5469F407931",
+    "name": "음성",
+    "region": "충북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "음성 로컬시장",
+      "음성 산책 코스",
+      "음성 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A869DC8C-6045-47BE-81D1-304B74B6D212",
+    "name": "단양",
+    "region": "충북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "도담삼봉",
+      "만천하스카이워크",
+      "구경시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "3260CA39-5B47-4A9A-9C7B-6D756AEF5F13",
+    "name": "증평",
+    "region": "충북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "증평 로컬시장",
+      "증평 산책 코스",
+      "증평 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "5A90242A-3BCA-461D-9D40-14E4CEB338A2",
+    "name": "아산",
+    "region": "충남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "온양온천",
+      "현충사",
+      "신정호"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C7C9A989-D7CD-4E88-AE7A-D24B581CF6E0",
+    "name": "서산",
+    "region": "충남",
+    "tags": [
+      "sea"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "서산 바다 산책",
+      "서산 로컬시장",
+      "서산 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F2FB19EA-4199-4935-B22C-E72A6ABE370C",
+    "name": "논산",
+    "region": "충남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "선샤인랜드",
+      "탑정호",
+      "강경젓갈시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "9386A598-CC02-49DC-9758-3FDA7EAB980D",
+    "name": "계룡",
+    "region": "충남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "계룡 로컬시장",
+      "계룡 산책 코스",
+      "계룡 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "0166DB1F-A19E-4582-916A-2110C3350D70",
+    "name": "당진",
+    "region": "충남",
+    "tags": [
+      "sea"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "당진 바다 산책",
+      "당진 로컬시장",
+      "당진 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "48B492F0-FA7E-4A3D-9EED-053C73AF1A0D",
+    "name": "금산",
+    "region": "충남",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "금산 숲길 산책",
+      "금산 계곡·호수 코스",
+      "금산 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "653EA92C-9E6F-473B-A0D5-C5A5BA7E2980",
+    "name": "부여",
+    "region": "충남",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "궁남지",
+      "정림사지",
+      "백제문화단지"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "B30ADB92-8632-4B97-B1BE-0012E65BAC66",
+    "name": "서천",
+    "region": "충남",
+    "tags": [
+      "sea"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "서천 바다 산책",
+      "서천 로컬시장",
+      "서천 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "50BDA43C-5466-456D-92B7-162A8ACA257C",
+    "name": "청양",
+    "region": "충남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "청양 로컬시장",
+      "청양 산책 코스",
+      "청양 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "FD627D1D-6ECC-4344-B870-E482358FDF0F",
+    "name": "홍성",
+    "region": "충남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "홍성 로컬시장",
+      "홍성 산책 코스",
+      "홍성 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F3116CD2-11E1-4156-8D39-60D1E26B337A",
+    "name": "예산",
+    "region": "충남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "예산 로컬시장",
+      "예산 산책 코스",
+      "예산 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "399A40EB-AE6C-4656-9F7C-E76D285F9FA5",
+    "name": "익산",
+    "region": "전북",
+    "tags": [
+      "history",
+      "food"
+    ],
+    "description": "이야기와 맛이 함께 남는 여행",
+    "highlights": [
+      "미륵사지",
+      "왕궁리유적",
+      "중앙시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8D009076-967F-4203-AA9F-BE3E6EFD80D2",
+    "name": "정읍",
+    "region": "전북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "정읍 역사거리",
+      "정읍 전통시장",
+      "정읍 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "A24D03B0-A8CE-4B2C-A6E5-49A3F982ECAB",
+    "name": "남원",
+    "region": "전북",
+    "tags": [
+      "history",
+      "food"
+    ],
+    "description": "이야기와 맛이 함께 남는 여행",
+    "highlights": [
+      "광한루원",
+      "춘향테마파크",
+      "지리산 둘레길"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "56FF99D9-96C4-4EC0-A28F-E7CCA4E7CA25",
+    "name": "김제",
+    "region": "전북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "김제 역사거리",
+      "김제 전통시장",
+      "김제 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "D2BCD980-0836-4873-8008-9100157C1B63",
+    "name": "완주",
+    "region": "전북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "완주 로컬시장",
+      "완주 산책 코스",
+      "완주 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C15AF5C0-2A3F-4FF3-81F3-515B9CD88CA7",
+    "name": "진안",
+    "region": "전북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "진안 로컬시장",
+      "진안 산책 코스",
+      "진안 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "52E076BC-3B88-4C4E-87DC-CB624F575E95",
+    "name": "무주",
+    "region": "전북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "무주 숲길 산책",
+      "무주 계곡·호수 코스",
+      "무주 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "825A672E-B5A5-4135-B607-21B597CF4198",
+    "name": "장수",
+    "region": "전북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "장수 숲길 산책",
+      "장수 계곡·호수 코스",
+      "장수 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "115D0DF6-CC1B-4CCA-AF40-6B4A40472119",
+    "name": "임실",
+    "region": "전북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "임실 숲길 산책",
+      "임실 계곡·호수 코스",
+      "임실 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "B1F3ACA4-0501-4384-8FC6-49C895450BE4",
+    "name": "순창",
+    "region": "전북",
+    "tags": [
+      "nature",
+      "food"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "순창 숲길 산책",
+      "순창 계곡·호수 코스",
+      "순창 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "3347023D-B625-4417-9AD2-ED0A1E85F792",
+    "name": "고창",
+    "region": "전북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "고창읍성",
+      "선운사",
+      "청보리밭"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "CBB0FEE2-A2FA-4171-B8FB-04CF51DD5762",
+    "name": "부안",
+    "region": "전북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "채석강",
+      "변산해수욕장",
+      "내소사"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "CDD42A40-53EF-462D-8BE1-AAC8C47E8F53",
+    "name": "순천",
+    "region": "전남",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "순천만국가정원",
+      "순천만습지",
+      "드라마촬영장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "0DAED229-B8A7-4E13-A507-F2F7035F06C3",
+    "name": "나주",
+    "region": "전남",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "나주 역사거리",
+      "나주 전통시장",
+      "나주 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "4892BC10-E2D9-4CE0-8862-6A22E12AFE0E",
+    "name": "광양",
+    "region": "전남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "광양 로컬시장",
+      "광양 산책 코스",
+      "광양 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "39FE8721-2CC3-4B39-8386-01B46001C048",
+    "name": "담양",
+    "region": "전남",
+    "tags": [
+      "history",
+      "food"
+    ],
+    "description": "이야기와 맛이 함께 남는 여행",
+    "highlights": [
+      "죽녹원",
+      "메타세쿼이아길",
+      "관방제림"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "813E1BAB-AAF4-43D2-A1BD-2EC7E38D2657",
+    "name": "곡성",
+    "region": "전남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "곡성 로컬시장",
+      "곡성 산책 코스",
+      "곡성 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "AC46D85F-9A60-4EEB-B1B5-39B1E80B35D2",
+    "name": "구례",
+    "region": "전남",
+    "tags": [
+      "nature",
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "구례 역사거리",
+      "구례 전통시장",
+      "구례 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "B4C25E21-508F-4337-BC33-0802D8C74B0C",
+    "name": "고흥",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "고흥 바다 산책",
+      "고흥 로컬시장",
+      "고흥 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "69BC233F-A30C-4F92-853C-C59D25D6E434",
+    "name": "보성",
+    "region": "전남",
+    "tags": [
+      "nature",
+      "food"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "보성 숲길 산책",
+      "보성 계곡·호수 코스",
+      "보성 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "CA87DAF8-6C36-4032-8792-BFE4AF16FBAA",
+    "name": "화순",
+    "region": "전남",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "화순 숲길 산책",
+      "화순 계곡·호수 코스",
+      "화순 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "B33AC10B-809C-42E1-88CE-82003E221369",
+    "name": "장흥",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "장흥 바다 산책",
+      "장흥 로컬시장",
+      "장흥 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "29628420-2A86-452E-84AF-712AB51170F5",
+    "name": "강진",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "강진 바다 산책",
+      "강진 로컬시장",
+      "강진 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C878D202-5E89-4F57-91FD-FEF5A9F9F2C9",
+    "name": "해남",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "history"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "땅끝마을",
+      "두륜산",
+      "대흥사"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "05A8A84B-95A7-4F87-A441-7B4CEDDACB94",
+    "name": "영암",
+    "region": "전남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "영암 로컬시장",
+      "영암 산책 코스",
+      "영암 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "1C1053E7-E2EF-4ACE-B4BF-3F563E7F3CB9",
+    "name": "무안",
+    "region": "전남",
+    "tags": [
+      "sea"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "무안 바다 산책",
+      "무안 로컬시장",
+      "무안 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "5EA5E762-99D3-4763-B1CB-AD5F8F5E7424",
+    "name": "함평",
+    "region": "전남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "함평 로컬시장",
+      "함평 산책 코스",
+      "함평 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "EB2CABB5-871C-42F3-A552-B2E4A16319B8",
+    "name": "영광",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "food"
+    ],
+    "description": "바다와 로컬 맛집을 한 번에 즐기자",
+    "highlights": [
+      "영광 바다 산책",
+      "영광 로컬시장",
+      "영광 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "BDC742B9-C625-43F4-B04D-6AF3B9019701",
+    "name": "장성",
+    "region": "전남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "장성 로컬시장",
+      "장성 산책 코스",
+      "장성 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "827618A1-0998-4917-BFDF-291ECCB3475F",
+    "name": "완도",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "청산도",
+      "완도타워",
+      "장보고유적지"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "37DB5D88-161F-4859-88A8-139149B2AC15",
+    "name": "진도",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "운림산방",
+      "진도대교",
+      "세방낙조"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "F0AD17A8-E392-4811-AA35-BFE606CA4A69",
+    "name": "신안",
+    "region": "전남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "퍼플섬",
+      "천사대교",
+      "증도"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "4E9FF9F8-616D-4A07-B32C-2ADDCA39016A",
+    "name": "김천",
+    "region": "경북",
+    "tags": [
+      "food"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "김천 로컬시장",
+      "김천 산책 코스",
+      "김천 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8E8BE42F-A8B8-4512-B75E-74F6D78CA35E",
+    "name": "구미",
+    "region": "경북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "구미 로컬시장",
+      "구미 산책 코스",
+      "구미 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7873098D-C7A9-4707-A2BE-64B6CFE63215",
+    "name": "영주",
+    "region": "경북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "부석사",
+      "무섬마을",
+      "소수서원"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "1571F0DB-A009-47EB-80AD-20A264D1B19F",
+    "name": "영천",
+    "region": "경북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "영천 역사거리",
+      "영천 전통시장",
+      "영천 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "17F7D451-B5F7-4206-8278-C8E1F20ABADB",
+    "name": "상주",
+    "region": "경북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "상주 역사거리",
+      "상주 전통시장",
+      "상주 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "1DAF11AF-DF10-4F84-A7D6-C0D4222B6C00",
+    "name": "문경",
+    "region": "경북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "문경새재",
+      "찻사발공방",
+      "중앙시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7EC2C142-57F6-458F-8A8B-40985C1E2F23",
+    "name": "경산",
+    "region": "경북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "경산 로컬시장",
+      "경산 산책 코스",
+      "경산 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F907A6AC-092C-40F8-9906-1355CD157D50",
+    "name": "의성",
+    "region": "경북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "의성 역사거리",
+      "의성 전통시장",
+      "의성 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "3C851A74-DB19-4874-AE7B-A14744CA29D6",
+    "name": "청송",
+    "region": "경북",
+    "tags": [
+      "nature",
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "청송 역사거리",
+      "청송 전통시장",
+      "청송 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "ACD2631E-0F6C-48DD-BB2B-DF531A0DCB42",
+    "name": "영양",
+    "region": "경북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "영양 숲길 산책",
+      "영양 계곡·호수 코스",
+      "영양 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "E586DACE-A805-4CF0-BDD8-C50EAD943285",
+    "name": "영덕",
+    "region": "경북",
+    "tags": [
+      "sea",
+      "food"
+    ],
+    "description": "바다와 로컬 맛집을 한 번에 즐기자",
+    "highlights": [
+      "강구항",
+      "블루로드",
+      "해맞이공원"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "95DE03F6-61C1-4712-9EE9-F03ED92A4A52",
+    "name": "청도",
+    "region": "경북",
+    "tags": [
+      "history",
+      "food"
+    ],
+    "description": "이야기와 맛이 함께 남는 여행",
+    "highlights": [
+      "청도 역사거리",
+      "청도 전통시장",
+      "청도 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "859D6F7A-135C-4605-AA7D-2FD4241CC533",
+    "name": "고령",
+    "region": "경북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "고령 역사거리",
+      "고령 전통시장",
+      "고령 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "33FAA3A9-1696-4928-93D6-E98AE06E7002",
+    "name": "성주",
+    "region": "경북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "성주 역사거리",
+      "성주 전통시장",
+      "성주 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C1C06084-8900-4D36-BDE6-5C546C8CC204",
+    "name": "칠곡",
+    "region": "경북",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "칠곡 로컬시장",
+      "칠곡 산책 코스",
+      "칠곡 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7BA6C126-03A4-44C4-BAB3-B793A896ED70",
+    "name": "예천",
+    "region": "경북",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "예천 역사거리",
+      "예천 전통시장",
+      "예천 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "21DBB637-D443-406A-8FB7-8483041AE05F",
+    "name": "봉화",
+    "region": "경북",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "봉화 숲길 산책",
+      "봉화 계곡·호수 코스",
+      "봉화 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "00A7459C-46F4-4E0B-A869-828FB081AC54",
+    "name": "울진",
+    "region": "경북",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "죽변항",
+      "성류굴",
+      "불영사계곡"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "E88E6126-DBF5-443B-B4FB-0562AB77C3D6",
+    "name": "울릉",
+    "region": "경북",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "울릉 바다 산책",
+      "울릉 로컬시장",
+      "울릉 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "62D15873-5D8A-4FA2-955B-1F05F8C8C6A2",
+    "name": "창원",
+    "region": "경남",
+    "tags": [
+      "sea",
+      "food"
+    ],
+    "description": "바다와 로컬 맛집을 한 번에 즐기자",
+    "highlights": [
+      "마산어시장",
+      "용지호수",
+      "진해 경화역"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "57C8F28A-8181-4C4A-92C2-0F5508C53106",
+    "name": "진주",
+    "region": "경남",
+    "tags": [
+      "history",
+      "food"
+    ],
+    "description": "이야기와 맛이 함께 남는 여행",
+    "highlights": [
+      "진주성",
+      "남강",
+      "중앙시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "BF17EAA5-5D43-49BE-9B02-5C959BB707E9",
+    "name": "사천",
+    "region": "경남",
+    "tags": [
+      "sea"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "사천 바다 산책",
+      "사천 로컬시장",
+      "사천 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F4D7BDB0-E806-4D4A-9D61-542B2E891A98",
+    "name": "김해",
+    "region": "경남",
+    "tags": [
+      "food"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "수로왕릉",
+      "가야테마파크",
+      "봉리단길"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7D496A25-BACF-4759-8A1F-D84353328249",
+    "name": "밀양",
+    "region": "경남",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "영남루",
+      "위양지",
+      "얼음골"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C8823F2F-82D6-46FE-8F08-57A670B984C5",
+    "name": "양산",
+    "region": "경남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "양산 로컬시장",
+      "양산 산책 코스",
+      "양산 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7242012F-07E4-49D9-8E1B-A1A1F693A497",
+    "name": "의령",
+    "region": "경남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "의령 로컬시장",
+      "의령 산책 코스",
+      "의령 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "95D26055-7299-4758-A25C-2B001EBC8E10",
+    "name": "함안",
+    "region": "경남",
+    "tags": [
+      "healing",
+      "local"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "함안 로컬시장",
+      "함안 산책 코스",
+      "함안 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F9A65F2B-8D66-420D-A91A-65E37C760ED6",
+    "name": "창녕",
+    "region": "경남",
+    "tags": [
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "창녕 역사거리",
+      "창녕 전통시장",
+      "창녕 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "B6FE7AF5-7492-4805-9163-C782DD6B9657",
+    "name": "고성",
+    "region": "경남",
+    "tags": [
+      "sea",
+      "nature"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "고성 바다 산책",
+      "고성 로컬시장",
+      "고성 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "E09BF932-EBB9-4CF5-8F07-B460A78DEA95",
+    "name": "하동",
+    "region": "경남",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "화개장터",
+      "쌍계사",
+      "평사리 들판"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "78983E5C-777F-4638-BBC0-ADEA567A38A5",
+    "name": "산청",
+    "region": "경남",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "산청 숲길 산책",
+      "산청 계곡·호수 코스",
+      "산청 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C322B3A6-37DD-4883-832C-18A7939B017E",
+    "name": "함양",
+    "region": "경남",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "함양 숲길 산책",
+      "함양 계곡·호수 코스",
+      "함양 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "90F4DE89-D381-42F2-9D48-4FA6A3A79F27",
+    "name": "거창",
+    "region": "경남",
+    "tags": [
+      "nature"
+    ],
+    "description": "잠시 숨을 고르러 떠나는 자연 여행",
+    "highlights": [
+      "거창 숲길 산책",
+      "거창 계곡·호수 코스",
+      "거창 로컬카페"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7BD43992-E09E-43A0-B395-CA6ECDAED27E",
+    "name": "합천",
+    "region": "경남",
+    "tags": [
+      "nature",
+      "history"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "합천 역사거리",
+      "합천 전통시장",
+      "합천 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "B9ED4A72-8C4F-40F8-AD25-2DC87EA568AA",
+    "name": "서울",
+    "region": "서울",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "한강공원",
+      "익선동",
+      "남산"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "32185377-4997-457B-B7CC-AECD8A06ED9D",
+    "name": "세종",
+    "region": "세종",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "호수공원",
+      "국립세종수목원",
+      "정부세종청사 야경"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C984CDAE-7A1F-40F3-BDDD-285828F96D5D",
+    "name": "인천 강화",
+    "region": "인천",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "강화 바다 산책",
+      "강화 로컬시장",
+      "강화 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "ACA5B318-7B64-4BD0-96CF-63093AA1C91F",
+    "name": "인천 옹진",
+    "region": "인천",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "옹진 바다 산책",
+      "옹진 로컬시장",
+      "옹진 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스"
+    ]
+  },
+  {
+    "id": "92806571-F6B9-4F29-A6AA-6FDA1BB97011",
+    "name": "서귀포",
+    "region": "제주",
+    "tags": [
+      "sea"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "서귀포 바다 산책",
+      "서귀포 로컬시장",
+      "서귀포 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "비행기"
+    ]
+  },
+  {
+    "id": "0CA4BE91-119B-4D9B-A3ED-AE5FA17DF6D8",
+    "name": "서울 종로",
+    "region": "서울",
+    "tags": [
+      "history",
+      "city"
+    ],
+    "description": "오래된 시간을 따라 걷는 하루",
+    "highlights": [
+      "익선동",
+      "북촌한옥마을",
+      "광장시장"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "DD28EE2D-B32B-45B9-B368-16002601CEEC",
+    "name": "서울 마포",
+    "region": "서울",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "연남동",
+      "망원시장",
+      "한강공원"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F10FD778-972E-4ADD-B29E-FE1840FBCAF9",
+    "name": "서울 성수",
+    "region": "서울",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "서울숲",
+      "카페거리",
+      "뚝섬한강공원"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "9BF1457B-02F7-4C1F-BD35-A8BEBFE7BEEC",
+    "name": "서울 용산",
+    "region": "서울",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "해방촌",
+      "이태원",
+      "남산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7351BE03-673D-4F02-BED1-1AA4EC521A5C",
+    "name": "서울 강남",
+    "region": "서울",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "가로수길",
+      "코엑스",
+      "도산공원"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F76AEDD8-4E76-47F9-8C9A-F73785CA94D3",
+    "name": "서울 영등포",
+    "region": "서울",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "영등포 중심가 산책",
+      "영등포 맛집 거리",
+      "영등포 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "440CEB21-39F2-4090-81DE-B49333E38172",
+    "name": "서울 송파",
+    "region": "서울",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "석촌호수",
+      "롯데월드타워",
+      "올림픽공원"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "95AB9374-938B-4D0C-BCEB-706E766631D1",
+    "name": "서울 서초",
+    "region": "서울",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "서초 중심가 산책",
+      "서초 맛집 거리",
+      "서초 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7AEDE7A1-4BBE-44A4-B567-9F3E27159CCF",
+    "name": "서울 중구",
+    "region": "서울",
+    "tags": [
+      "sea",
+      "history",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "중구 바다 산책",
+      "중구 로컬시장",
+      "중구 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "D7EF2453-88DB-4E48-83B9-1188B649BEBD",
+    "name": "서울 성북",
+    "region": "서울",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "성북 중심가 산책",
+      "성북 맛집 거리",
+      "성북 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "C240A83C-8E44-4658-B1D6-42DD35B0D393",
+    "name": "부산 해운대",
+    "region": "부산",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "해운대해수욕장",
+      "달맞이길",
+      "블루라인파크"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "F16E4163-9446-4057-8035-C92975E4BB9B",
+    "name": "부산 기장",
+    "region": "부산",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "해동용궁사",
+      "아난티 주변 산책",
+      "일광해변"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "05CA3185-156C-4F5C-B28A-5651CDA47B44",
+    "name": "부산 영도",
+    "region": "부산",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "흰여울문화마을",
+      "태종대",
+      "깡깡이예술마을"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8A74533B-43FD-4015-BC11-193A4E7ABAB8",
+    "name": "부산 중구",
+    "region": "부산",
+    "tags": [
+      "sea",
+      "history",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "중구 바다 산책",
+      "중구 로컬시장",
+      "중구 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "EF9F7200-CC73-4759-88C4-7CDE0212983E",
+    "name": "부산 수영",
+    "region": "부산",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "수영 바다 산책",
+      "수영 로컬시장",
+      "수영 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "FC11E1E8-AE2D-4EB0-B4E1-BC306102C627",
+    "name": "부산 연제",
+    "region": "부산",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "연제 중심가 산책",
+      "연제 맛집 거리",
+      "연제 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "5432F730-EBA8-456D-9F71-B2AC5DB2D39E",
+    "name": "대구 중구",
+    "region": "대구",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "중구 중심가 산책",
+      "중구 맛집 거리",
+      "중구 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "6D05890B-762F-4754-8DDD-39157004A945",
+    "name": "대구 수성",
+    "region": "대구",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "수성 중심가 산책",
+      "수성 맛집 거리",
+      "수성 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "9E93F2D4-66C6-46EE-8C77-B09DF25B5369",
+    "name": "대구 달성",
+    "region": "대구",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "달성 중심가 산책",
+      "달성 맛집 거리",
+      "달성 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "9C11776E-824D-4695-AE44-9602D85ABB44",
+    "name": "대전 유성",
+    "region": "대전",
+    "tags": [
+      "food",
+      "city"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "유성 중심가 산책",
+      "유성 맛집 거리",
+      "유성 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "346DBD81-D3B8-429F-B591-E13ABF62B05B",
+    "name": "대전 대덕",
+    "region": "대전",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "대덕 중심가 산책",
+      "대덕 맛집 거리",
+      "대덕 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "CB3678FB-6517-4A97-A562-04A975511DDC",
+    "name": "인천 송도",
+    "region": "인천",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "센트럴파크",
+      "트리플스트리트",
+      "달빛축제공원"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "3E1EE799-B259-4FFB-A59F-03488E0CFBDE",
+    "name": "인천 부평",
+    "region": "인천",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "부평 중심가 산책",
+      "부평 맛집 거리",
+      "부평 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8FD24063-C2C6-49E0-8777-C66E980714D8",
+    "name": "울산 남구",
+    "region": "울산",
+    "tags": [
+      "city"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "남구 중심가 산책",
+      "남구 맛집 거리",
+      "남구 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "23D5696B-7169-4B3A-A502-91A19918CD26",
+    "name": "울산 북구",
+    "region": "울산",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "북구 바다 산책",
+      "북구 로컬시장",
+      "북구 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8619D9D7-D96F-4CFF-AECE-25ED38F065A4",
+    "name": "부산 사하",
+    "region": "부산",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "사하 바다 산책",
+      "사하 로컬시장",
+      "사하 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "8177CAAD-12A3-45B2-ABE8-50A9B066A2AF",
+    "name": "부산 동래",
+    "region": "부산",
+    "tags": [
+      "history",
+      "food",
+      "city"
+    ],
+    "description": "이야기와 맛이 함께 남는 여행",
+    "highlights": [
+      "동래 역사거리",
+      "동래 전통시장",
+      "동래 문화유산 산책"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "7382CD82-787D-43C9-AB5A-44DFC6534A58",
+    "name": "부산 북구",
+    "region": "부산",
+    "tags": [
+      "sea",
+      "city"
+    ],
+    "description": "바다 쪽으로 마음이 기우는 날",
+    "highlights": [
+      "북구 바다 산책",
+      "북구 로컬시장",
+      "북구 전망 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "BB09CE92-783F-4766-B5B4-3588B98BFF5E",
+    "name": "광주 광산",
+    "region": "광주",
+    "tags": [
+      "culture",
+      "food"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "광산 로컬시장",
+      "광산 산책 코스",
+      "광산 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "0905B01B-8992-4DE4-91ED-DAA60C26C36B",
+    "name": "광주 동구",
+    "region": "광주",
+    "tags": [
+      "culture",
+      "food"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "동구 로컬시장",
+      "동구 산책 코스",
+      "동구 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "08056E8C-7E07-4BEA-896D-CD0A4DAE1895",
+    "name": "광주 남구",
+    "region": "광주",
+    "tags": [
+      "culture",
+      "food"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "남구 로컬시장",
+      "남구 산책 코스",
+      "남구 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "B7E7EB97-2B6C-4228-9E2B-57218DEFFE78",
+    "name": "광주 서구",
+    "region": "광주",
+    "tags": [
+      "culture",
+      "food"
+    ],
+    "description": "예상 밖의 하루를 만들어보자",
+    "highlights": [
+      "서구 로컬시장",
+      "서구 산책 코스",
+      "서구 카페 거리"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "4E31FF68-E03B-4B91-9507-5E7C5956ED8B",
+    "name": "대구 달서",
+    "region": "대구",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "달서 중심가 산책",
+      "달서 맛집 거리",
+      "달서 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "0207D079-4B46-46AF-B26F-8843D41FADAC",
+    "name": "대구 동구",
+    "region": "대구",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "동구 중심가 산책",
+      "동구 맛집 거리",
+      "동구 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "74946F3F-F2F2-4640-87AA-4655734BD9DA",
+    "name": "대구 남구",
+    "region": "대구",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "남구 중심가 산책",
+      "남구 맛집 거리",
+      "남구 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "DF9B9518-E950-4C0D-9154-5B35264E25C6",
+    "name": "인천 계양",
+    "region": "인천",
+    "tags": [
+      "city",
+      "healing"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "계양 중심가 산책",
+      "계양 맛집 거리",
+      "계양 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "112F2CAD-2D0D-4FC2-B608-E103E96DC8D9",
+    "name": "인천 남동",
+    "region": "인천",
+    "tags": [
+      "city",
+      "healing"
+    ],
+    "description": "가볍게 떠나는 도시 산책",
+    "highlights": [
+      "남동 중심가 산책",
+      "남동 맛집 거리",
+      "남동 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  },
+  {
+    "id": "44AE0350-F7D3-443C-9E6A-DE391CF5A78F",
+    "name": "인천 미추홀",
+    "region": "인천",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "description": "도시의 맛과 분위기를 가볍게 즐기자",
+    "highlights": [
+      "미추홀 중심가 산책",
+      "미추홀 맛집 거리",
+      "미추홀 야경 포인트"
+    ],
+    "recommendedTransports": [
+      "버스",
+      "기차"
+    ]
+  }
+]
