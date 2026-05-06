@@ -6,9 +6,9 @@
       "updatedAt": "2026-04-29"
     },
     "foods": {
-      "version": 1,
-      "file": "foods_v1.json",
-      "updatedAt": "2026-05-06"
+      "version": 2,
+      "file": "foods_v2.json",
+      "updatedAt": "2026-05-07"
     },
     "activities": {
       "version": 1,
