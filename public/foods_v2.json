@@ -1,23 +1,4 @@
 {
-  "schemaVersion": 1,
-  "version": 2,
-  "updatedAt": "2026-05-07",
-  "description": "DoliGO food roulette data. Meal-focused keyword data for random decision; cafe/dessert items are excluded for future dessert roulette separation.",
-  "privacyNote": "Food roulette results, active trips, and roll history should be stored locally on device only.",
-  "roulettePolicy": {
-    "candidateLimit": 8,
-    "localCandidateLimit": 5,
-    "globalCandidateLimit": 2,
-    "fallbackOrder": [
-      "destinationFoods exact name",
-      "destinationFoods name|region when duplicate",
-      "regionFoods",
-      "zoneFoods",
-      "globalFoods"
-    ],
-    "dedupeBy": "name",
-    "localGlobalRatio": "approximately 70:30 when local foods are available"
-  },
   "globalFoods": [
     {
       "id": "food_kr_7cadec32",
