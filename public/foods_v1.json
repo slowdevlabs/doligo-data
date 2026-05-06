@@ -1,22 +1,4 @@
 {
-  "schemaVersion": 1,
-  "version": 1,
-  "updatedAt": "2026-05-06",
-  "description": "DoliGO food roulette data. This is keyword data for random decision, not restaurant/review data.",
-  "privacyNote": "Food roulette results, active trips, and roll history should be stored locally on device only.",
-  "roulettePolicy": {
-    "candidateLimit": 8,
-    "localCandidateLimit": 4,
-    "globalCandidateLimit": 4,
-    "fallbackOrder": [
-      "destinationFoods exact name",
-      "destinationFoods name|region when duplicate",
-      "regionFoods",
-      "zoneFoods",
-      "globalFoods"
-    ],
-    "dedupeBy": "name"
-  },
   "globalFoods": [
     {
       "id": "food_kr_7cadec32",
