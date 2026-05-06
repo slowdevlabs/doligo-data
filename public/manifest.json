@@ -1,5 +1,24 @@
 {
-  "version": 4,
-  "file": "cities_v4.json",
-  "updatedAt": "2026-04-29"
+  "files": {
+    "cities": {
+      "version": 4,
+      "file": "cities_v4.json",
+      "updatedAt": "2026-04-29"
+    },
+    "foods": {
+      "version": 1,
+      "file": "foods_v1.json",
+      "updatedAt": "2026-05-06"
+    },
+    "activities": {
+      "version": 1,
+      "file": "activities_v1.json",
+      "updatedAt": "2026-05-06"
+    },
+    "stays": {
+      "version": 1,
+      "file": "stays_v1.json",
+      "updatedAt": "2026-05-06"
+    }
+  }
 }
